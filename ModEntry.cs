@@ -9,7 +9,7 @@ namespace SharedFishiesnDishes
     {
         public override void Entry(IModHelper helper)
         {
-            helper.Events.GameLoop.SaveLoaded += OnSync;
+            helper.Events.Multiplayer.PeerConnected += OnSync;
             helper.Events.GameLoop.DayEnding += OnSync;
 
             helper.Events.Multiplayer.ModMessageReceived += OnMessageReceived;
