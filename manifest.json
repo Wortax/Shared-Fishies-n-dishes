@@ -1,0 +1,10 @@
+{
+    "Name": "SharedFishiesnDishes",
+    "Author": "Wortax",
+    "Version": "1.0.0",
+    "Description": "A mod to share the Dishes and fishing collection",
+    "UniqueID": "Wortax.SharedFishiesnDishes",
+    "EntryDll": "SharedFishiesnDishes.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": [ "Nexus:44212" ]
+}
