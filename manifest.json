@@ -1,7 +1,7 @@
 {
     "Name": "SharedFishiesnDishes",
     "Author": "Wortax",
-    "Version": "1.0.2",
+    "Version": "1.1.0",
     "Description": "A mod to share the Dishes and fishing collection",
     "UniqueID": "Wortax.SharedFishiesnDishes",
     "EntryDll": "SharedFishiesnDishes.dll",
